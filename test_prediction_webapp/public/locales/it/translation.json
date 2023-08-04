@@ -1,0 +1,17 @@
+{
+    "Generale": {
+        "Introduzione": "Introduzione",
+        "Chiudi":"Chiudi",
+        "Invia": "Invia"
+    },
+    "Specifico": {
+        "LoremIpsumTitle": "Essere, o non essere, questo è il dilemma:",
+        "LoremIpsum": "se sia più nobile nella mente soffrire colpi di fionda e dardi d'atroce fortuna o prender armi contro un mare d'affanni e, opponendosi, por loro fine? Morire, dormire… nient'altro, e con un sonno dire che poniamo fine al dolore del cuore e ai mille tumulti naturali di cui è erede la carne: è una conclusione da desiderarsi devotamente. Morire, dormire. Dormire, forse sognare. Sì, qui è l'ostacolo, perché in quel sonno di morte quali sogni possano venire dopo che ci siamo cavati di dosso questo groviglio mortale deve farci riflettere. È questo lo scrupolo che dà alla sventura una vita così lunga.",
+        "AreaRiservata": "Area riservata",
+        "AccediAllaPiattaformaInserendoLeTueCredenziali": "Accedi alla piattaforma inserendo le tue credenziali",
+        "TornaIndietro": "Torna indietro",
+        "ÈStatoInviatoUnOtpAllaMail": "È stato inviato un otp alla mail",
+        "NonHoRicevutoLOtp": "Non ho ricevuto l'otp",
+        "InserireCodiceOTP": "Inserire codice OTP"
+    }
+}
